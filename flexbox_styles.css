@@ -1,0 +1,78 @@
+/* 
+TODO: Add styles to match the layout in the image.
+Note: you should only need to use flexbox properties, margin/padding, and text-align to create the layout.
+*/
+
+/* Header flexbox styles */
+header {
+
+}
+
+nav {
+
+}
+
+.user-actions {
+
+}
+
+/* Card container flexbox */
+.card-container {
+
+}
+
+.card {
+
+}
+
+/* Features section flexbox */
+.features {
+
+}
+
+.feature-item {
+
+}
+
+/* Footer flexbox styles */
+.footer-content {
+
+}
+
+.footer-section {
+
+}
+
+.social-links {
+
+}
+
+/* Responsive flexbox adjustments */
+@media (max-width: 768px) {
+    header {
+
+    }
+
+    .card-container {
+
+    }
+
+    .features {
+
+    }
+
+    .footer-content {
+
+    }
+
+    .social-links {
+
+    }
+}
+
+
+/* 
+Challenge: Use flexbox in media queries to create a responsive layout 
+*/
+
+
